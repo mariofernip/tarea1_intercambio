@@ -30,6 +30,8 @@ public class Cc_tarea1 {
         valor2 = valor1 - valor2;
         valor1 = valor1 - valor2;
         
+        //prubea de git
+        
         System.out.println("Valor 1:"+valor1+" ******");
         
         System.out.println("Valor 2:"+valor2+" ******");
