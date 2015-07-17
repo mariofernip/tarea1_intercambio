@@ -22,7 +22,7 @@ public class HoroscopoChino {
                    
         if(anio==1900)
         {
-        System.out.println("Tu signo es: RATA");
+        System.out.println("Tu signo es la: RATA");
         }
         if(anio==1901)
         {
@@ -42,7 +42,7 @@ public class HoroscopoChino {
         }
         if(anio==1905)
         {
-        System.out.println("Tu signo es el: SERPIENTE");
+        System.out.println("Tu signo es la: SERPIENTE");
         }
         if(anio==1906) 
         {
@@ -50,7 +50,7 @@ public class HoroscopoChino {
         }
         if(anio==1907) 
         {
-        System.out.println("Tu signo es el: CABRA");
+        System.out.println("Tu signo es la: CABRA");
         }
         if(anio==1908) 
         {
